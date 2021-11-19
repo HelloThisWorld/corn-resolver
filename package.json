@@ -1,0 +1,14 @@
+{
+  "name": "corn-resolver",
+  "version": "1.0.0",
+  "description": "resolver corn and output",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "HelloThisWorld",
+  "license": "ISC",
+  "devDependencies": {
+    "mocha": "^9.1.1"
+  }
+}
